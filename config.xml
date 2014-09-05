@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+        <!--Constantes de configuracion del sistema, para agregarlas de forma global-->
+        <constants>
+            <!--Se agregaran las constantes de configuracion globales de la aplicacion a medida que sean pertinentes-->
+            <constant name="ConnectionString">
+                <server>
+                    localhost
+                </server>
+                <database>
+                    WebImage_DB
+                </database>
+                <user>
+                    DBUser
+                </user>
+                <password>
+                    p3DMTwzpz8wVP6F5
+                </password>
+            </constant>
+            <constant>
+                <test>
+                    Another one
+                </test>
+            </constant>
+        </constants>
